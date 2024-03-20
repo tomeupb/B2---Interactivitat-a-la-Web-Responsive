@@ -287,7 +287,7 @@ Y al clicar sobre la imágen 2,4,5 te dará una descripcio de cada pareja de los
 ![familia](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/familia.png)
 Texto descriptivo de cada pareja:
 ![abuelos](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/infofamilia1.png)
-![hijos][(https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/infofamilia2.png)
+![hijos](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/infofamilia2.png)
 ![nietos](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/nietos.PNG)
 
 
