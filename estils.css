@@ -1,0 +1,679 @@
+
+
+
+                                            /* PAGINA DE INICIO */
+
+/*Para el video -Pongo el tamaño como me parece más correcto le añado propiedades de bloque y el margen automático*/
+.centrado{
+    margin: auto;
+    width: 800px;
+    height: 800px;
+    display: block;
+
+   }
+
+ /* La lista con los tres enlaces a la carta postres y bebidas las pongo centradas debajo del logo*/
+    nav li {
+        display: inline;
+        margin-right: 20px;
+        
+    }
+
+/*Les doy color negro*/
+    nav a{
+
+        color: black;
+    }
+
+ /*El main Principal le doy un maximo del 100% el margen o auto y el relleno de 20px*/   
+    main {
+        max-width: 100%; 
+        margin: 0 auto; 
+        padding: 20px;
+    }
+ 
+    /* Como propiedades globales margen y relleno a 0*/
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+/*Para el body añado la letra el tamaño y el color de fondo que me parece más correcto*/
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 2;
+    background-color:black;
+       
+}
+
+/* Para el header añador color de fondo , color de letra el texto alineado y relleno de 15 px*/
+header {
+    background-color:brown;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    
+}
+
+
+
+
+/*Para los títulos h3 les pongo color blanco*/
+h3{
+    color: white;
+}
+
+/*Aañadimos un mapa paar el footer El mapa que dice donde esta el restaurante*/
+.mapa {
+    width: 100%;
+    height: auto; 
+    margin: 20px 0; 
+    padding: 0px;
+    border: black 5cap solid;
+    clear: both; 
+}
+  
+
+
+/*Las 3 fotos en blanco y negro las ponemos centradas con el tamaño adecuado*/
+.tamaño {
+    text-align: center; 
+}
+
+.tamaño img {
+    width: 400px;
+    height: 300px; 
+    display: inline-block; 
+    margin: 0 10px; 
+}
+
+
+
+
+
+                                         /*FIN DE PAGINA DE INICIO*/
+
+
+
+
+
+ /*Parrafos*/
+p {
+    border-radius:100px;
+    margin-bottom: 100px;
+    color: white;
+    padding: 40px;
+   
+}
+
+.parrafo1{
+    text-align: center;
+}
+
+
+
+
+
+/*Fin parrafos*/
+
+
+
+
+
+/*FOOTER le ponemos color de fondo texto alineado tamaño deletra y margen*/
+
+footer {
+    background-color: brown;
+    text-align: center;
+    margin:initial;
+    font-size: 4;
+   
+  
+    
+}
+
+
+/* Logos del footer-Para los logos de instagram, tripadvisor y twitter*/
+.insta img {
+    width: 32px;
+    height: 30px;
+    
+  }
+
+  .twitter img {
+    width: 25px;
+    height: 25px;
+  }
+
+  .tripadvisor img{
+    width: 25px;
+    height: 25px;
+  }
+
+  .contacto img{
+    width: 100px;
+    height: 50px;
+   
+  }
+
+
+/*Final logos de footer*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*Apartado de bebida Creamos un main para la bebida*/
+
+
+
+main.bebida {
+    max-width: 500px;
+    margin: 20px auto; 
+    padding: 20px;
+    text-align: left;
+}
+
+.bebida-item {
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 20px;
+    text-align:initial;
+}
+
+
+
+
+
+/*FINAL Bebida*/
+
+
+
+/*APARTADO DE LA CARTA creamos un main para la carta*/
+
+
+
+
+main.carta {
+    max-width: 500px;
+    margin: 20px auto; 
+    padding: 20px;
+    text-align: left;
+}
+
+.carta-item {
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 20px;
+ 
+}
+
+
+
+
+
+/*Final Carta*/
+
+
+
+/*APARTADO DE POSTRES creamos un main para postres*/
+
+
+
+main.postre {
+    max-width: 500px;
+    margin: 20px auto; 
+    padding: 20px;
+    text-align: left;
+}
+
+.postre-item {
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 20px;
+    
+}
+
+/* Final Postres*/
+
+
+
+/* Media Queris*/
+
+/* Para moviles :  Comprobado con Inspeccionar: (iphoneSE,IPHONE XR , IPHONE 12PRO , SAMSUNG S8, samsung S20 ultra, Pixel 7 Samsung S20 ultra)*/
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+
+    header {
+        padding: 14px;
+        width: 920px;
+        height: 300px;
+    }
+
+    nav li {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    p {
+        margin-bottom: 15px;
+    }
+
+    footer {
+        padding: 45px;
+        width: 890px;
+        height: 900px;
+    }
+
+    .tamaño {
+        text-align: center;
+    }
+
+    .tamaño img {
+        display: block;
+        margin: 0 auto;
+        
+    }
+    .mapa {
+        width: 100%; 
+        height: auto; 
+    }
+    .asd{
+        padding: 45px;
+        width: 890px;
+        height: 900px;
+       
+     }
+     
+     
+     
+     #hhistoria{
+       
+        padding: 2px;
+        width: 1000px;
+        height: 300px;
+     
+     }
+     .carousel {
+        text-align: center; /* Centra el carrusel horizontalmente */
+        margin-right:  100px;
+        margin-left: 125px;
+        
+        
+    }
+    .menos{
+        padding: 2px;
+        width: 1000px;
+    }
+    
+    .carta-item {
+        display: inline-block;
+        vertical-align: top; 
+        margin-right: 20px;
+     
+    }
+     .carta{
+        text-align: center;
+     }
+     .bebida-item img {
+        display: block;
+        margin: 200px;
+        text-align: center;
+            
+   
+    }
+    .carta-item  img {
+        display:block;
+        margin: 200px;;
+        text-align: center;
+        
+
+    }
+
+    .carta-item h3,
+.carta-item p {
+    display:block;
+    text-align: center;
+}
+
+.postre-item {
+        display:inline-block;
+        margin: 200px;;
+        text-align: center;
+        
+    
+}
+.vegetariano img{
+    display:block;
+    margin: 200px;;
+    text-align: center;
+}
+
+.vegetariano h3,
+.vegetariano p {
+    display:block;
+    text-align: center;
+}
+
+}
+
+
+    
+
+
+
+
+
+/* Media Queris*/
+/* Para tablets   comprobado con inspeccionar ( IPad mini , Ipad Air, Ipad Pro surface pro)*/
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+    body {
+        font-size: 16px;
+    }
+
+    header {
+        padding: 12px;
+    }
+
+    nav li {
+        margin-right: 15px;
+    }
+
+    main {
+        padding: 15px;
+    }
+
+    p {
+        margin-bottom: 15px;
+    }
+
+    footer {
+        padding: 15px;
+        height: 900px;
+        
+    }
+
+    /*Las 3 fotos en blanco y negro para tablets*/
+    .tamaño {
+        text-align: center;
+    }
+
+    .tamaño img {
+        width: 400px; 
+        height: 300px; 
+        display: inline-block;
+        margin: 0 10px; 
+    }
+    .mapa {
+        width: 100%; /* Cambia el ancho del mapa para que ocupe el 100% del ancho del footer */
+        height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
+    }
+   
+}
+
+/* Media Queris*/
+/* Para pantallas grandes comprobado con * Pantalla de escritorio 1920x1080 */
+@media only screen and (min-width: 1025px) {
+    body {
+        font-size: 18px;
+    }
+
+    header {
+        padding: 15px;
+    }
+
+    nav li {
+        margin-right: 20px;
+    }
+
+    main {
+        padding: 20px;
+    }
+
+    p {
+        margin-bottom: 20px;
+    }
+
+    footer {
+        padding: 15px;
+    }
+
+
+    .tamaño {
+        text-align: center;
+    }
+
+    .tamaño img {
+        width: 400px; 
+        height: 300px; 
+        display: inline-block; 
+        margin: 0 10px; 
+        
+    }
+    .mapa {
+        width: 100%; /* Cambia el ancho del mapa para que ocupe el 100% del ancho del footer */
+        height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
+    }
+    
+}
+
+
+/*
+Formulari de Contacte Interactiu
+*/
+
+
+.formulario {
+    max-width: 400px;
+    margin: 100px auto; /* Centrar el formulario y agregar espacio arriba */
+    padding: 80px;
+    background-color: brown; /* Cambiar el color de fondo */
+    border: 5px solid black; /* Cambiar el color del borde */
+    text-align:center;
+    
+}
+
+h1{
+    text-align: center;
+}
+.formulario fieldset {
+    border-color: black; 
+}
+
+
+
+/*
+Fin Formulario de Contacto
+*/
+
+
+
+
+/*
+Càrrega dinàmica de contingut: Vegetariano
+
+*/
+
+.vegetariano{
+    vertical-align: top; 
+    margin-right: 20px;
+    display: none;
+    
+   
+}
+
+.Vegetariano {
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 20px; 
+    right: 20px; 
+}
+
+/*
+Fin Càrrega dinàmica de contingut: Vegetariano
+
+*/
+
+.negro{
+   color: black;
+}
+
+
+
+.boton {
+    position: fixed;
+    top: 20px; 
+    left: 20px; 
+   
+}
+
+
+
+/*
+Enquestes/Valoracions Interactives: Estrellas
+*/
+.valoracion img{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 20px; 
+    right: 20px; 
+}
+
+#resultadosFooter{
+        text-align:justify
+  
+      }
+
+fieldset{
+        border-color: black; 
+        padding: 10px;
+      }
+
+
+/*
+Página Historia -Carrussel de imágenes 
+*/
+
+   .carousel {
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+  }
+  
+  .carousel img {
+    height: 600px;
+    width: 600px;
+  }
+  
+  .controls {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    
+} 
+  
+.controls button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+   
+}
+
+.controls1 button {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+   
+}
+
+  
+  #foto {
+   
+    object-fit: cover;
+    display: flex;
+    text-align: center;
+   
+  }
+ 
+ 
+
+
+/*
+footer contacta con nosotros
+*/
+
+#contacto {
+    padding: 100px;
+    
+}
+.contacto img {
+    width: 100px; /* Modifica este valor según el tamaño deseado */
+    height: 100px;
+ 
+}
+
+/*
+footer historia , main y header
+*/
+#fhistoria{
+   
+    width: 100%;
+    height: 100%;
+   
+}
+
+
+
+#hhistoria{
+  
+    width: 100%;
+    height: 500px;
+
+}
+/*
+Clase para el header de carta, postre y bebida que sea mas pequeño  para que de mas importancia a la carta
+*/
+.menos{
+    padding: 2px;
+    
+}
+
+
+.info{
+    width: 25px;
+    height: 25px;
+    position: fixed;
+    top: 60px; 
+    right: 130px; 
+    
+}
+
+.infoCarta{
+    width: 25px;
+    height: 25px;
+    
+}
+
+.infoContacto{
+    width: 25px;
+    height: 25px;
+    
+}
+

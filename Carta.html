@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carta</title>
+    <!-- El enlace al CSS  --> 
+    <link rel="stylesheet" href="estils.css"/><!–Añadimos link para tener enlazado el css –>
+</head>
+<body id="dia">
+    <header class="menos">
+        <img src="boton.png" class="boton"  id="modonoche"  height:="40px" width="40px" onclick="funcion5()"  >
+        <h1 class="titulo">Carta</h1>
+        <!-- logo mas grande con enlace al inicio  --> 
+        <a   href="Inici.html"><img src="meson.PNG"  height="150px" width="150px"/></a>
+    </header>
+    <!–2. Etiqueta semántica de contenido principal añadimos (main)   –>
+    <main class="carta" id="negro">
+        <!-- Le creamos a cada item un párrafo una imagen y un titulo h3  --> 
+        <div class="carta-item">
+            <img   class="infoCarta"    src="info.png" onmouseover="infoHamburguesa()">
+            <img src="hamburguesa.jpg" alt="Hamburguesa" width="400px" height="300">
+            <h3>Hamburguesa 13€ </h3>
+            <p>Deliciosa hamburguesa con carne jugosa y ingredientes frescos. Acompañada de pan suave y aderezos exquisitos.</p>
+        </div>
+        <!-- Le creamos a cada item un párrafo una imagen y un titulo h3  --> 
+        <div class="carta-item">
+            <img    class="infoCarta"    src="info.png" onmouseover="infoPizza()">
+            <img  src="pizza.jpg"   width="400px" height="300" >
+            <h3>Pizza 12€</h3>
+            <p>Pizza recién horneada con una mezcla perfecta de queso y ingredientes variados. Una explosión de sabores en cada bocado.</p>
+        </div>
+        <!-- Le creamos a cada item un párrafo una imagen y un titulo h3  --> 
+        <div class="carta-item">
+            <img   class="infoCarta"    src="info.png" onmouseover="infoSalmon()">
+            <img src="salmon.jpg" alt="Salmon"  width="400px" height="300">
+            <h3>Salmon 15€</h3>
+            <p>Filete de salmón fresco preparado con una combinación de especias y limón. Una opción saludable y deliciosa.</p>
+        </div>
+        <!-- Le creamos a cada item un párrafo una imagen y un titulo h3  --> 
+        <div class="carta-item">
+            <img    class="infoCarta"    src="info.png" onmouseover="infoCarne()">
+            <img src="carne.jpg" alt="Carne"  width="400px" height="300">
+            <h3>Carne 22€</h3>
+            <p>Jugosa carne asada a la parrilla con guarniciones exquisitas. Una experiencia culinaria que satisfará tu paladar.</p>
+        </div>
+        <!-- Le creamos a cada item un párrafo una imagen y un titulo h3  --> 
+        <div class="carta-item">
+            <img    class="infoCarta"    src="info.png" onmouseover="infoEnsalada()">
+            <img src="ensalada.jpg" alt="Ensalada"  width="400px" height="300">
+            <h3>Ensalada 13'50€</h3>
+            <p>Ensalada fresca con una variedad de verduras y aderezo especial. Una opción ligera y saludable para disfrutar.</p>
+        </div>
+        <!-- Le creamos a cada item un párrafo una imagen y un titulo h3  --> 
+        <div class="carta-item">
+            <img   class="infoCarta"    src="info.png" onmouseover="infoPaella()">
+            <img src="paella.jpg" alt="Paella"  width="400px" height="300">
+            <h3>Paella 22€</h3>
+            <p>Paella española tradicional con arroz, mariscos y especias. Una deliciosa explosión de sabores mediterráneos.</p>
+        </div>
+        <div class="vegetariano"id="comidaVegetariana">
+            <img    class="infoCarta"    src="info.png" onmouseover="infoPizzaVegetariana()">
+            <img src="pizzaVegetariana.jpg" alt="pizzaVegetariana"  width="400px" height="300">
+            <h3>Pizza Vegetariana 15€</h3>
+
+            <p>Explora nuestra variedad de pizzas vegetarianas, donde la frescura de los ingredientes se combina con sabores vibrantes para una experiencia culinaria única</p>
+            <img  class="infoCarta"   src="info.png" onmouseover="infoHamburguesaVegetariana()">
+            <img src="vegetariano1.jpg" alt="Hamburguesa vegetariana"  width="400px" height="300">
+            <h3>Hamburguesa vegetariana 14€</h3>
+
+            <p> Hamburguesas vegetarianas, elaboradas con ingredientes frescos y naturales para una experiencia culinaria saludable y deliciosa</p>
+            <img    class="infoCarta"    src="info.png" onmouseover="infoPaellaVegetariana()">
+            <img src="paellaVegetariana.jpg" alt="paellaVegetariana"  width="400px" height="300">
+            <h3>Paella vegetariana 20€</h3>
+            <p> Paellas vegetarianas, elaboradas con ingredientes frescos y naturales para una experiencia deliciosa </p>
+        </div>
+    </main>
+    <footer><!-- En el footer tendremos 3 párrafos el mapa y los 3 iconos/enlaces a otras aplicaciones --> 
+        <p class="footer">Reserva en reserva@mesoncantomeu@gmail.com</p>
+        <p class="footer">Teléfono: 666778899</p>
+        <img   class="info"    src="info.png" onmouseover="info1()">
+        <p class="footer">Desde 1950 Meson C'an Tomeu</p>
+        <img  class="Vegetariano"  src="logoVegetariano.png" onclick="funcion4()">
+        
+        <!-- Mapa -->   
+        <iframe  class="mapa" iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d6149.660122295169!2d2.6212384468949543!3d39.58598020474301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sson%20moix!5e0!3m2!1ses!2ses!4v1701770687792!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <a  class= "insta" href="https://www.instagram.com/"><img src="insta.ico" /></a>
+        <a  class= "twitter" href="https://twitter.com/"><img src="twitter.ico" /></a>
+        <a  class= "tripadvisor" href="https://www.tripadvisor.es/"><img src="tripadvisor.ico" /></a>
+        <script src="sc.js"> </script>
+    </footer>
+</body>
+</html>
