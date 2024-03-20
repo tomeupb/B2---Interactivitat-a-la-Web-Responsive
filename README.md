@@ -123,32 +123,32 @@ Galeria interactiva d'imatges que mostri detalls addicionals en passar el cursor
 
 # Página de Inicio
 ### Modo dia noche
-![dianoche](<capturas readme/dianoche.PNG>)
+![dianoche](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/dianoche.png)
 Esquina superior izquierda  (Modo dia/ModoNoche)– tendremos un icono que al clicarlo se pondrá el fondo blanco y las lertras negras Modo dia y al volverlo a pulsar se pondrá el fondo negro y las letras blancas 
 Al clicar sobre las 3 imagenes o sobre el video saldrá un texto explicativo de la foto o video 
 
 ![Captura4](<capturas readme/4.PNG>)
 ![Captura5](<capturas readme/5.PNG>)
 Al clicar dos veces  sobre las imágenes o sobre el video salrá un texto descriptivo
-![Captura5](<capturas readme/alertInicio.PNG>)
+![Captura5](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/AlertInicio.png))
 
 
 ### Encuesta de calidad
 
-![Captura5](<capturas readme/estrellas.PNG>)
+![Captura5](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/estrellas.png)
 
 Este apartado tiene 2 partes :
 
 ##### Parte1:
 Si pasamos el cursor sobre el icono azul  nos dará una breve descripcion de que se realizará si clicamos sobre las estrellas.
-![Encuesta de calidad info ](<capturas readme/Encuesta de calidad.PNG>)
+![Encuesta de calidad info ](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/encuesta%20de%20calidad.png)
 
 ##### Parte2:
 Si clicamos sobre las Estrellas  podremos realizar una  Encuesta de calidad y al enviarla nos irán saliendo una debajo de la otra justamente debajo.
 
-![Encuesta de calidad](<capturas readme/Encuesta.PNG>)
+![Encuesta de calidad](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/encuesta.png)
 Reseña Interactiva  que saldrá en la parte inferior de la página
-![Encuesta de calidad](<capturas readme/reseña.PNG>)
+![Encuesta de calidad](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/rese%C3%B1a.PNG)
 
 ### Contacta con Nosotros
 
@@ -159,86 +159,86 @@ Reseña Interactiva  que saldrá en la parte inferior de la página
 
 Si pasamos el cursor sobre el icono azul con una i nos dará una breve descripcion de que se realizará si clicamos  sobre el icono contacta con nosotros
 
-![contacta info](<capturas readme/contactaInfo.PNG>)
+![contacta info](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/contactainfo.png)
 
  #### Parte 2:
 
  Si clicamos sobre el icono contacta con nosotos  podremos realizar reservas, reclamaciones , dudas o otros  es necesario rellenar los campos correcamente ya que no te dejará enviar los datos a no ser que estén correctos
 
- ![contacta](<capturas readme/contacta.PNG>)
+ ![contacta](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/contacta.png)
 
 
  Al clicar sobre el icono contacta con nosotros: 
  Los campos estarán validados para solo poder introducir información valida
 
-  ![contactaFormulario](<capturas readme/contactaFormulario.PNG>)
+  ![contactaFormulario](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/contactaFormulario.png)
 
 
 
   # Página Carta
 
   ### Modo dia noche
-![dianoche](<capturas readme/dianoche.PNG>)
+![dianoche](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/dianoche.png)
 Esquina superior izquierda  (Modo dia/ModoNoche)– tendremos un icono que al clicarlo se pondrá el fondo blanco y las lertras negras Modo dia y al volverlo a pulsar se pondrá el fondo negro y las letras blancas 
 
 Al lado de cada comida tendrás la posbilidad de saber que ingredientes tiene , si pasas el cursor sobre el icono de informacion te saldrán todos los ingredientes;
 ### Alert de  Ingredientes
-![hamburguesa](<capturas readme/hamburguesa.PNG>)
+![hamburguesa](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/hamburguesa.png)
 
 En este caso la hamburguesa daria:
 
-![hamburguesa ingredientes](<capturas readme/ingredientesH.PNG>)
+![hamburguesa ingredientes](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/ingredientesH.png)
 
 
 
 ### Icono Vegan
 
-![icono vegan ](<capturas readme/vegan.PNG>)
+![icono vegan ](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/vegan.png)
 
 En la esquina superior derecha tenemos un icono  llamado vengan  y un icono de informacion.
  #### Parte 1:
 Al pasar el cursor por el icono azul dará un descripcion de que acción realizarás si cliclas sobre el icono vegán.
 Descripcion-
 
-![info vegan ](<capturas readme/infovegan.PNG>)
+![info vegan ](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/infovegan.png)
 
  #### Parte 2:
 Si cliclas sobre el icono vegan al final de la carta aparecerán elementos de la carta vegenos una pizza una Hamburguesa y una paella
 
-![pizza vegan ](<capturas readme/pizzavegetariana.PNG>)
+![pizza vegan ](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/pizzavegetariana.png)
 
 
 # Página Postres
 
   ### Modo dia noche
-![dianoche](<capturas readme/dianoche.PNG>)
+![dianoche](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/dianoche.png)
 Esquina superior izquierda  (Modo dia/ModoNoche)– tendremos un icono que al clicarlo se pondrá el fondo blanco y las lertras negras Modo dia y al volverlo a pulsar se pondrá el fondo negro y las letras blancas 
 
 Al lado de cada postre  tendrás la posbilidad de saber que ingredientes tiene , si pasas el cursor sobre el icono de informacion te saldrán todos los ingredientes;
 
-![pastel de fresa](<capturas readme/pastel de fresa.PNG>)
+![pastel de fresa](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/pastel%20de%20fresa.png)
 
 En este caso el Pastel de fresa:
-![ info pastel de fresa](<capturas readme/infopastel.PNG>)
+![ info pastel de fresa](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/infopastel.png)
 
 
 ### Icono Vegan
 
-![icono vegan ](<capturas readme/vegan.PNG>)
+![icono vegan ](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/vegan.png)
 
 En la esquina superior  derecha tenemos un icono  llamado vengan  y un icono de informacion.
  #### Parte 1:
 Al pasar el cursor por el icono azul dará un descripcion de que acción realizarás si cliclas sobre el icono vegán.
 Descripcion-
 
-![icono vegan ](<capturas readme/infopostre.PNG>)
+![icono vegan ](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/infopostre.png)
 
  #### Parte 2:
 Si cliclas sobre el icono vegan al final de la carta aparecerán elementos de postre vegenos un brownie vegano y piezas de fruta
 
 En este caso Piezas de Fruta:
 
-![icono vegan ](<capturas readme/piezasfruta.PNG>)
+![icono vegan ](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/piezasFruta.png)
 
 
 
@@ -249,23 +249,23 @@ En este caso Piezas de Fruta:
 
 
 ### Modo dia noche
-![dianoche](<capturas readme/dianoche.PNG>)
+![dianoche](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/dianoche.png)
 Esquina superior izquierda  (Modo dia/ModoNoche)– tendremos un icono que al clicarlo se pondrá el fondo blanco y las lertras negras Modo dia y al volverlo a pulsar se pondrá el fondo negro y las letras blancas 
 
-![icono cocteles ](<capturas readme/cocteles.PNG>)
+![icono cocteles ](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/cocteles.png)
 
 En la esquina superior izquierda tenemos un icono  llamado Cocteles   y un icono de informacion.
  #### Parte 1:
 Al pasar el cursor por el icono azul dará un descripcion de que acción realizarás si cliclas sobre el icono vegán.
 Descripcion-
 
-![icono cocteles ](<capturas readme/coctelesinfo.PNG>)
+![icono cocteles ](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/coctelesInfo.png)
  #### Parte 2:
 
 Si cliclas sobre el icono cocteles  al final de la carta aparecerán dso tipos de cocteles  coctel con fruta de la pasion y cocte con vozka
 
 En este caso coctel de fruta de la pasión:
-![icono coctelesf ](<capturas readme/coctelf.PNG>)
+![icono coctelesf ](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/coctelf.png)
 
 # Página Historia 
 ### Modo dia noche
@@ -274,21 +274,21 @@ Esquina superior izquierda  (Modo dia/ModoNoche)– tendremos un icono que al cl
 
 En la página de Historia tendrémos un carrusel de imágenes que con la fllecha derecha y izquierdas las podrás ir cambiando.
 
-![carrusel](<capturas readme/carrusel.PNG>)
+![carrusel](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/carrusel.png)
 
 En el apartado de abajo tendrás varias fotos de la familia el completo para saber como interactuar tendrás que pasar el cursor sobre el icono de informacion y te dará la siguiente información 
 
-![info carrusel](<capturas readme/infocarrusel.PNG>)
-![info carrusel](<capturas readme/carrusel2.PNG>)
+![info carrusel](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/infocarrusel.png)
+![info carrusel](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/carrusel2.png)
 Al clicar 2 veces sobre la primera foto todas las imágenes aumentarán 
 Al clicar 2 veces sobre la última imágen todas las imágenes disminuirán
 Y al clicar sobre la imágen 2,4,5 te dará una descripcio de cada pareja de los abuelos , hijos y nietos.
 
-![familia](<capturas readme/familia.PNG>)
+![familia](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/familia.png)
 Texto descriptivo de cada pareja:
-![abuelos](<capturas readme/infofamilia1.PNG>)
-![hijos](<capturas readme/infofamilia2.PNG>)
-![nietos](<capturas readme/nietos.PNG>)
+![abuelos](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/infofamilia1.png)
+![hijos][(https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/infofamilia2.png)
+![nietos](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/nietos.PNG)
 
 
 
@@ -333,15 +333,15 @@ Galeria interactiva d'imatges que mostri detalls addicionals en passar el cursor
 ### Comprobaciones con pantallas medianas:
  ##### ipad mini ,  ipad pro , ipad air
 
- ![ipad](<capturas readme/ipadmini.PNG>)
+ ![ipad](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/ipadmini.png)
 
  ### Comprobaciones con pantallas Grandes 
 
 #### Nest Hub , asus Zenbook  y Nesthubmax
 
- ![PantallaGrande](<capturas readme/pantallaGrande.PNG>)
+ ![PantallaGrande](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/pantallaGrande.png)
 
 ### Comprobaciones con pantallas pequeñas:
  #### iphone SE, iphone 14, iphone 14 proMax
 
-  ![PantallaGrande](<capturas readme/pantallaPequeña.PNG>)
+  ![PantallaGrande](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/capturas%20readme/pantallapeque%C3%B1a.png)
