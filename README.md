@@ -269,7 +269,7 @@ En este caso coctel de fruta de la pasión:
 
 # Página Historia 
 ### Modo dia noche
-![dianoche](<capturas readme/dianoche.PNG>)
+![dianoche](https://github.com/tomeupb/B2---Interactivitat-a-la-Web-Responsive/blob/main/dianoche.png)
 Esquina superior izquierda  (Modo dia/ModoNoche)– tendremos un icono que al clicarlo se pondrá el fondo blanco y las lertras negras Modo dia y al volverlo a pulsar se pondrá el fondo negro y las letras blancas 
 
 En la página de Historia tendrémos un carrusel de imágenes que con la fllecha derecha y izquierdas las podrás ir cambiando.
